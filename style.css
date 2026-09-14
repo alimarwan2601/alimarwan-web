@@ -172,6 +172,12 @@ nav h2 {
 
 .contact {
     text-align: center;
+    min-height: 70vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .contact a {
